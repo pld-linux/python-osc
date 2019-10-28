@@ -9,7 +9,7 @@
 Summary:	Open Sound Control server and client implementations in pure Python
 Name:		python-osc
 Version:	1.7.0
-Release:	1
+Release:	2
 License:	public domain
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
